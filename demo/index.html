@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Audio Samples from Listen, Chat, and Edit</title>
+		<title>Audio Samples from Listen, Chat, and Remix</title>
 		<style>
 			div {
 			margin-bottom: 32px;
@@ -53,27 +53,20 @@
 	<body>
 		<article>
 			<header>
-				<h1> Audio Samples of <i>Listen, Chat, and Edit: Text-Guided Soundscape Modification for Enhanced Auditory Experience</i> </h1>
+				<h1> Audio Samples of <i>Listen, Chat, and Remix: Text-Guided Soundscape Remixing for Enhanced Auditory Experience</i> </h1>
 			</header>
 		</article>
 		
 
         <h2>Abstract</h2>
             <div>
-                In daily life, we encounter a variety of sounds, both desirable and undesirable, with limited control over their presence and volume. 
-                Our work introduces “Listen, Chat, and Edit” (LCE), a novel multimodal sound mixture editor that modifies each sound source in a mixture based on user-provided text instructions. 
-                LCE distinguishes itself with a user-friendly chat interface and its unique ability to edit multiple sound sources simultaneously within a mixture, without needing to separate them. 
-                Users input open-vocabulary text prompts, which are interpreted by a large language model to create a semantic filter for editing the sound mixture. 
-                The system then decomposes the mixture into its components, applies the semantic filter, and reassembles it into the desired output. 
-                We developed a 160-hour dataset with over 100k mixtures, including speech and various audio sources, along with text prompts for diverse editing tasks like extraction, removal, and volume control. 
-                Our experiments demonstrate significant improvements in signal quality across all editing tasks and robust performance in zero-shot scenarios with varying numbers and types of sound sources.
+                In daily life, we encounter a variety of sounds, both desirable and undesirable, with limited control over their presence and volume. Our work introduces “Listen, Chat, and Remix” (LCR), a novel multimodal sound remixer that controls each sound source in a mixture based on user-provided text instructions. LCR distinguishes itself with a user-friendly text interface and its unique ability to remix multiple sound sources simultaneously within a mixture, without needing to separate them. Users input open-vocabulary text prompts, which are interpreted by a large language model to create a semantic filter for remixing the sound mixture. The system then decomposes the mixture into its components, applies the semantic filter, and reassembles filtered components back to the desired output. We developed a 160-hour dataset with over 100k mixtures, including speech and various audio sources, along with text prompts for diverse remixing tasks including extraction, removal, and volume control of single or multiple sources. Our experiments demonstrate significant improvements in signal quality across all remixing tasks and robust performance in zero-shot scenarios with varying numbers and types of sound sources.
             </div>
 		
 		<div>
 			<p>This page contains a set of audio samples in support of the paper. </p>
             <p> We provide five samples for sound mixtures consisting of 2 Speech (TextrolSpeech) + 2 Audio (VGGSound) and two samples for each one of the zero-shot sound mixture compositions. For every sample, we write 4~6 text prompts, and show the edited and target sound mixture according to each prompt. </p>
             <p> We also provide five real mixtures from AudioSet. </p>
-            <p> Spectrograms of them can be found in Figure 2 and Figure 6 to 20 in Appendix G, in the paper.</p>
             <p> We recommend opening this website with Chrome and wearing headphones for the best audio experience.</p>
 		</div>
 		
@@ -153,9 +146,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt B: </b><span class="text">"Let's pull out the sound of the fast-talking man and the turkey."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -188,9 +181,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Why not get rid of the man's voice and the turkey's noise, and reduce the helicopter's volume?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -223,9 +216,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt F: </b><span class="text">"Please extract the person with an elevated tone."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -311,9 +304,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -347,9 +340,9 @@
                     female speaker with a standard tempo, amplify the playing accordion, reduce the playing drum kit, and decrease the volume for the male speaker with a sluggish pace."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -382,9 +375,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt F: </b><span class="text">"Make everything quieter."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -470,9 +463,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -506,9 +499,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Is it possible to turn down the speakers' volume and crank up the background ambiance?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -541,9 +534,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt F: </b><span class="text">"Can you remove the speaker with a rapid rhythm?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -630,9 +623,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -666,9 +659,9 @@
                     in the audio track."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -701,9 +694,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt F: </b><span class="text">"Let's extract the part featuring the speaker characterized by typical tone?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -790,9 +783,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -825,9 +818,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Reduce the background audio and turn up the volume on the talking parts."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -860,9 +853,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt F: </b><span class="text">"I'd like you to amplify the playing theremin sound and reduce the church bell ringing sound."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -939,9 +932,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt B: </b><span class="text">"Is it possible to turn up the volume of the speaker exhibiting typical enthusiasm and reduce the volume of the speaker showing low energy?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -974,9 +967,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Why not turn up the sound of the contemptuous speaker while removing the speaker maintaining a neutral emotional state?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1047,9 +1040,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt B: </b><span class="text">"The female speaker talks is loud. Could you turn down the volume?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1082,9 +1075,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Begin by decreasing the volume of the female speaker with a fast tempo, and then increase the volume of the male speaker with a low pitch."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1161,9 +1154,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt B: </b><span class="text">"Kindly turn down the sound of the rocket being launched."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1196,9 +1189,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Could you decrease the volume for both the missile launch and the playing tabla sounds?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1269,9 +1262,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt B: </b><span class="text">"Please take out the sound of the fireworks banging and enhance the volume of the vacuum cleaner cleaning the floors."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1304,9 +1297,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Just extract the firework for me."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1391,9 +1384,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1426,9 +1419,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Extract the banjo music from the audio."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1508,9 +1501,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1544,9 +1537,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Please take out the individual with a low pitch."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1630,9 +1623,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt B: </b><span class="text">"Please remove all non-human sounds."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1666,9 +1659,9 @@
                     Second, volume down the cuckoo bird's calling. Third, remove the oboe music."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1746,9 +1739,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt B: </b><span class="text">"Could you extract the sound of the woman speaking and the chicken, and then decrease the chicken's sound?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1781,9 +1774,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"I only want to keep the animal voices of the dog and chicken in the mix."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1875,9 +1868,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -1910,9 +1903,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Can you isolate the speaker with a deep tone and low enthusiasm?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -1945,9 +1938,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt F: </b><span class="text">"Please extract the sound of the guitar and the dog's barking."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -2033,9 +2026,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -2068,9 +2061,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"I want you to single out the siren sound."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -2103,9 +2096,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt F: </b><span class="text">"Please raise the sound level of the high-pitched speaker, remove the speaker with typical pitch, and erase the siren sound."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -2197,9 +2190,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -2232,9 +2225,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"I'd like you to isolate both the female speaker and the bowed string instrument sound from the mixture."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -2268,9 +2261,9 @@
                     the volume of the string instrument and reduce the volume of the scissors?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -2356,9 +2349,9 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
                 <th style="width: 25%; text-align: left;">Target Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
                 <th style="width: 25%; text-align: left;">Target Mixture B</th>
             </tr>
             <tr>
@@ -2391,9 +2384,9 @@
                 <td colspan="2" style="text-align: left; width: 50%;"><p><b>Text prompt D: </b><span class="text">"Identify and isolate the lady speaking in a high energy."</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
                 <th style="width: 25%; text-align: left;">Target Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
                 <th style="width: 25%; text-align: left;">Target Mixture D</th>
             </tr>
             <tr>
@@ -2427,9 +2420,9 @@
                     decrease the sound of the male speaker with low pitch and normal energy, raise the volume of the seagull noise, and lower the volume of the musical keyboard?"</p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture E</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
                 <th style="width: 25%; text-align: left;">Target Mixture E</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture F</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
                 <th style="width: 25%; text-align: left;">Target Mixture F</th>
             </tr>
             <tr>
@@ -2494,10 +2487,10 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
             </tr>
             <tr>
                 <td style="width: 25%;">
@@ -2558,10 +2551,10 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
             </tr>
             <tr>
                 <td style="width: 25%;">
@@ -2622,10 +2615,10 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
             </tr>
             <tr>
                 <td style="width: 25%;">
@@ -2686,10 +2679,10 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
             </tr>
             <tr>
                 <td style="width: 25%;">
@@ -2750,10 +2743,10 @@
                 </p></td>
             </tr>
             <tr>
-                <th style="width: 25%; text-align: left;">Edited Mixture A</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture B</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture C</th>
-                <th style="width: 25%; text-align: left;">Edited Mixture D</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+                <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
             </tr>
             <tr>
                 <td style="width: 25%;">
