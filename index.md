@@ -55,17 +55,6 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 
 
 ## Sound Mixture Compositions
-<div id="toc_container" style="padding-top:0px;">
-    In-distribution
-        <li style="padding-left: 10px;"><a href="#2s2a"> 2 Speech + 2 Audio (VGGSound) </a></li>
-    Zero-shot
-        <li style="padding-left: 10px;"><a href="#2s"> 2 Speech </a></li>
-        <li style="padding-left: 10px;"><a href="#2a"> 2 Audio (VGGSound) </a></li>
-        <li style="padding-left: 10px;"><a href="#2s1a"> 2 Speech + 1 Audio (VGGSound) </a></li>
-        <li style="padding-left: 10px;"><a href="#1s2a"> 1 Speech + 2 Audio (VGGSound) </a></li>
-        <li style="padding-left: 10px;"><a href="#2s2a_fsdseen"> 2 Speech + 2 Audio (FSD50K, seen audio labels) </a></li>
-        <li style="padding-left: 10px;"><a href="#2s2a_fsdunseen"> 2 Speech + 2 Audio (FSD50K, unseen audio labels) </a></li>
-</div>
 
 <a name="2s2a"></a>
 <details class="accordion">
