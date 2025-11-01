@@ -8,17 +8,12 @@ Columbia University, New York, USA
 
 ![abstract](figures/LCR_demo.png)
 
-**Abstract**: 
-In daily life, we encounter a variety of sounds, both desirable and undesirable, with limited control over their presence and volume. Our work introduces “Listen, Chat, and Remix” (LCR), a novel multimodal sound remixer that controls each sound source in a mixture based on user-provided text instructions. LCR distinguishes itself with a user-friendly text interface and its unique ability to remix multiple sound sources simultaneously within a mixture, without needing to separate them. Users input open-vocabulary text prompts, which are interpreted by a large language model to create a semantic filter for remixing the sound mixture. The system then decomposes the mixture into its components, applies the semantic filter, and reassembles filtered components back to the desired output. We developed a 160-hour dataset with over 100k mixtures, including speech and various audio sources, along with text prompts for diverse remixing tasks including extraction, removal, and volume control of single or multiple sources. Our experiments demonstrate significant improvements in signal quality across all remixing tasks and robust performance in zero-shot scenarios with varying numbers and types of sound sources.
+**Abstract** In daily life, we encounter a variety of sounds, both desirable and undesirable, with limited control over their presence and volume. Our work introduces “Listen, Chat, and Remix” (LCR), a novel multimodal sound remixer that controls each sound source in a mixture based on user-provided text instructions. LCR distinguishes itself with a user-friendly text interface and its unique ability to remix multiple sound sources simultaneously within a mixture, without needing to separate them. Users input open-vocabulary text prompts, which are interpreted by a large language model to create a semantic filter for remixing the sound mixture. The system then decomposes the mixture into its components, applies the semantic filter, and reassembles filtered components back to the desired output. We developed a 160-hour dataset with over 100k mixtures, including speech and various audio sources, along with text prompts for diverse remixing tasks including extraction, removal, and volume control of single or multiple sources. Our experiments demonstrate significant improvements in signal quality across all remixing tasks and robust performance in zero-shot scenarios with varying numbers and types of sound sources.
 
+<div style="background-color: #FFF2E5; padding: 15px; border-left: 5px solid #FFB899; font-style: italic;">
+This page contains a set of audio samples. We write 4~6 text prompts for each sample and show the remixed sound mixture according to each text prompt. We recommend opening this website with Chrome and wearing headphones for the best audio experience.
+</div>
 
-This page contains a set of audio samples in support of the paper.
-
-We provide five samples for sound mixtures consisting of 2 Speech (TextrolSpeech) + 2 Audio (VGGSound) and two samples for each one of the zero-shot sound mixture compositions.
-
-For every sample, we write 4 or 6 text prompts. We show the remixed and the target sound mixture according to each text prompt.
-
-We recommend opening this website with Chrome and wearing headphones for the best audio experience.
 
 ## Sound Mixture Compositions
 <div id="toc_container" style="padding-top:0px;">
