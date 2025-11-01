@@ -7,6 +7,20 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      /* make the main content wider */
+      .main-content {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px 40px;
+      }
+      @media (max-width: 768px) {
+        .main-content {
+          padding: 15px;
+          max-width: 95%;
+        }
+      }
+    </style>
     {% include head-custom.html %}
   </head>
   <body>
