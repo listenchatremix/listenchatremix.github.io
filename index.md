@@ -2,9 +2,9 @@
 layout: arxiv
 ---
 
-***Xilin Jiang, Cong Han, Yinghao Aaron Li, Nima Mesgarani***
+by ***Xilin Jiang, Cong Han, Yinghao Aaron Li*** and ***Nima Mesgarani***
 
-Columbia University, New York, USA
+from ***Columbia University, New York, USA***
 
 ![abstract](figures/LCR_demo.png)
 
