@@ -66,7 +66,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #1</th>
+        <th style="text-align: left;">🔉Input Mixture #1</th>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, high tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">helicopter</td>
@@ -109,13 +109,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Increase the volume of the speeches and decrease the volume of the background sounds."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Let's pull out the sound of the fast-talking man and the turkey."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Increase the volume of the speeches and decrease the volume of the background sounds."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Let's pull out the sound of the fast-talking man and the turkey."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -143,13 +143,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Remove all people talking."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Why not get rid of the man's voice and the turkey's noise, and reduce the helicopter's volume?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Remove all people talking."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Why not get rid of the man's voice and the turkey's noise, and reduce the helicopter's volume?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -177,13 +177,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you kindly eliminate the sound of the helicopter? I appreciate it."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please extract the person with an elevated tone."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you kindly eliminate the sound of the helicopter? I appreciate it."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please extract the person with an elevated tone."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -216,7 +216,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #2</th>
+        <th style="text-align: left;">🔉Input Mixture #2</th>
         <td style="text-align: center;">male speaker with low pitch, low tempo, low energy, and sad emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">playing accordion</td>
@@ -259,13 +259,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Is it possible to single out the accordion's performance?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Lower the volume of the live accordion music that is currently being played, please."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Is it possible to single out the accordion's performance?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Lower the volume of the live accordion music that is currently being played, please."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -293,14 +293,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you raise the decibel level of the gloomy speaker that has a subdued tone?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please raise the sound for the
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you raise the decibel level of the gloomy speaker that has a subdued tone?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please raise the sound for the
             female speaker with a standard tempo, amplify the playing accordion, reduce the playing drum kit, and decrease the volume for the male speaker with a sluggish pace."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -328,13 +328,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like you to exclude the speaker with a high-frequency voice and average vitality, conveying a neutral tone."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Make everything quieter."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like you to exclude the speaker with a high-frequency voice and average vitality, conveying a neutral tone."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Make everything quieter."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -367,7 +367,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #3</th>
+        <th style="text-align: left;">🔉Input Mixture #3</th>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, high tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">underwater bubbling</td>
@@ -411,13 +411,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Enhance this recording by removing all the noises."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you raise the audio level of the underwater bubbling sound exclusively?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Enhance this recording by removing all the noises."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you raise the audio level of the underwater bubbling sound exclusively?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -445,14 +445,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you adjust the sound so
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you adjust the sound so
             that both speakers are louder, the train horn is quieter, and the underwater bubbling is completely removed from the recording?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Is it possible to turn down the speakers' volume and crank up the background ambiance?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Is it possible to turn down the speakers' volume and crank up the background ambiance?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -480,13 +480,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like you to edit out the speaker characterized by a faster tempo and the train horn sound altogether."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you remove the speaker with a rapid rhythm?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like you to edit out the speaker characterized by a faster tempo and the train horn sound altogether."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you remove the speaker with a rapid rhythm?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -519,7 +519,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #4</th>
+        <th style="text-align: left;">🔉Input Mixture #4</th>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">playing hammond organ</td>
@@ -563,14 +563,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you edit the recording to extract the sound of the organ and rainfall?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you modify the sound so that the rain and Hammond organ
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you edit the recording to extract the sound of the organ and rainfall?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you modify the sound so that the rain and Hammond organ
             are quieter, the female speaker with normal pitch and energy is louder, and the male speaker with low pitch and high energy is entirely eliminated from the recording?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -598,14 +598,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like you to turn down the volume for the lady with the average pitch."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please remove the the organ music and both the female and male speakers
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like you to turn down the volume for the lady with the average pitch."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please remove the the organ music and both the female and male speakers
             in the audio track."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -633,13 +633,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please make the organ music louder."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Let's extract the part featuring the speaker characterized by typical tone?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please make the organ music louder."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Let's extract the part featuring the speaker characterized by typical tone?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -672,7 +672,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #5</th>
+        <th style="text-align: left;">🔉Input Mixture #5</th>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, low tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">church bell ringing</td>
@@ -716,13 +716,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Extract the bell ringing from the rest of the audio."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you amplify the audio level of the speaker with normal energy and slow tempo, and also raise the church bell ringing sound, but lower the volume of the speaker with low vitality?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Extract the bell ringing from the rest of the audio."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you amplify the audio level of the speaker with normal energy and slow tempo, and also raise the church bell ringing sound, but lower the volume of the speaker with low vitality?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -750,13 +750,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Let's extract all human voices from the recording."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Reduce the background audio and turn up the volume on the talking parts."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Let's extract all human voices from the recording."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Reduce the background audio and turn up the volume on the talking parts."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -784,13 +784,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Is it feasible to erase the theremin's playing sound?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like you to amplify the playing theremin sound and reduce the church bell ringing sound."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Is it feasible to erase the theremin's playing sound?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like you to amplify the playing theremin sound and reduce the church bell ringing sound."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -831,7 +831,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #6</th>
+        <th style="text-align: left;">🔉Input Mixture #6</th>
         <td style="text-align: center;">female speaker with normal pitch, normal <br> tempo, low energy, and contempt emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, normal <br> tempo, normal energy, and neutral emotion</td>
         </tr>
@@ -861,13 +861,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you extract the speaker characterized by their contemptuous manner?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Is it possible to turn up the volume of the speaker exhibiting typical enthusiasm and reduce the volume of the speaker showing low energy?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you extract the speaker characterized by their contemptuous manner?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Is it possible to turn up the volume of the speaker exhibiting typical enthusiasm and reduce the volume of the speaker showing low energy?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -895,13 +895,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you isolate the speaker without emotion and speaking in a normal volume?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Why not turn up the sound of the contemptuous speaker while removing the speaker maintaining a neutral emotional state?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you isolate the speaker without emotion and speaking in a normal volume?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Why not turn up the sound of the contemptuous speaker while removing the speaker maintaining a neutral emotional state?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -934,7 +934,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #7</th>
+        <th style="text-align: left;">🔉Input Mixture #7</th>
         <td style="text-align: center;">female speaker with normal pitch, high <br> tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, low <br> tempo, high energy, and neutral emotion</td>
         </tr>
@@ -963,13 +963,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd appreciate it if you could eliminate the speaker who is speaking at a rapid pace."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"The female speaker talks is loud. Could you turn down the volume?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd appreciate it if you could eliminate the speaker who is speaking at a rapid pace."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"The female speaker talks is loud. Could you turn down the volume?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -997,13 +997,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Remove the gentleman with a deep tone."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Begin by decreasing the volume of the female speaker with a fast tempo, and then increase the volume of the male speaker with a low pitch."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Remove the gentleman with a deep tone."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Begin by decreasing the volume of the female speaker with a fast tempo, and then increase the volume of the male speaker with a low pitch."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1044,7 +1044,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #8</th>
+        <th style="text-align: left;">🔉Input Mixture #8</th>
         <td style="text-align: center;">playing tabla</td>
         <td style="text-align: center;">missile launch</td>
         </tr>
@@ -1074,13 +1074,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please turn up the volume of the playing tabla sound and remove the missile launch sound."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Kindly turn down the sound of the rocket being launched."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please turn up the volume of the playing tabla sound and remove the missile launch sound."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Kindly turn down the sound of the rocket being launched."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1108,13 +1108,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Extract the tabla music for me."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you decrease the volume for both the missile launch and the playing tabla sounds?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Extract the tabla music for me."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you decrease the volume for both the missile launch and the playing tabla sounds?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1147,7 +1147,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #9</th>
+        <th style="text-align: left;">🔉Input Mixture #9</th>
         <td style="text-align: center;">fireworks banging</td>
         <td style="text-align: center;">vacuum cleaner cleaning floors</td>
         </tr>
@@ -1177,13 +1177,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Is it possible to remove the noise from the vacuum and increase the volume of the fireworks?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please take out the sound of the fireworks banging and enhance the volume of the vacuum cleaner cleaning the floors."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Is it possible to remove the noise from the vacuum and increase the volume of the fireworks?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please take out the sound of the fireworks banging and enhance the volume of the vacuum cleaner cleaning the floors."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1211,13 +1211,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you eliminate the noise from the fireworks explosions, please?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Just extract the firework for me."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you eliminate the noise from the fireworks explosions, please?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Just extract the firework for me."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1258,7 +1258,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #10</th>
+        <th style="text-align: left;">🔉Input Mixture #10</th>
         <td style="text-align: center;">male speaker with normal pitch, low tempo, normal energy, and surprised emotion</td>
         <td style="text-align: center;">female speaker with high pitch, high tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">playing banjo</td>
@@ -1295,13 +1295,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Lower the sound level of the banjo playing, remove the woman with a high-paced, low-energy delivery, and increase the volume of the surprised man who speaks slowly with normal enthusiasm."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Try to delete the surprised male speaker, if you can."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Lower the sound level of the banjo playing, remove the woman with a high-paced, low-energy delivery, and increase the volume of the surprised man who speaks slowly with normal enthusiasm."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Try to delete the surprised male speaker, if you can."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1329,13 +1329,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you decrease the audio level of the female speaker with a fast tempo and low vitality who maintains a neutral emotion?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Extract the banjo music from the audio."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you decrease the audio level of the female speaker with a fast tempo and low vitality who maintains a neutral emotion?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Extract the banjo music from the audio."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1368,7 +1368,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #11</th>
+        <th style="text-align: left;">🔉Input Mixture #11</th>
         <td style="text-align: center;">male speaker with low pitch, high tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">wind chime</td>
@@ -1405,14 +1405,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Extract the background sound but make it quieter."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you extract the audio of the speaker with a low-pitched voice
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Extract the background sound but make it quieter."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you extract the audio of the speaker with a low-pitched voice
             and a brisk tempo?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1440,14 +1440,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Increase the audio of the wind chime, decrease the volume of the male speaker 
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Increase the audio of the wind chime, decrease the volume of the male speaker 
             with a fast pace and low enthusiasm, and remove the female speaker with a regular pace and average enthusiasm."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please take out the individual with a low pitch."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please take out the individual with a low pitch."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1488,7 +1488,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #12</th>
+        <th style="text-align: left;">🔉Input Mixture #12</th>
         <td style="text-align: center;">male speaker with low pitch, high tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">cuckoo bird calling</td>
         <td style="text-align: center;">playing oboe</td>
@@ -1525,13 +1525,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like to extract the audio of an oboe being played, please."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please remove all non-human sounds."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like to extract the audio of an oboe being played, please."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please remove all non-human sounds."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1559,14 +1559,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Enhance the sound level of the cuckoo bird's call, please."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"First, volume up the man with a high tempo and regular enthusiasm. 
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Enhance the sound level of the cuckoo bird's call, please."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"First, volume up the man with a high tempo and regular enthusiasm. 
             Second, volume down the cuckoo bird's calling. Third, remove the oboe music."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1599,7 +1599,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #13</th>
+        <th style="text-align: left;">🔉Input Mixture #13</th>
         <td style="text-align: center;">female speaker with high pitch, high tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">dog growling</td>
         <td style="text-align: center;">chicken crowing</td>
@@ -1636,13 +1636,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Kindly remove the menacing growl produced by the canine."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you extract the sound of the woman speaking and the chicken, and then decrease the chicken's sound?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Kindly remove the menacing growl produced by the canine."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you extract the sound of the woman speaking and the chicken, and then decrease the chicken's sound?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1670,13 +1670,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please quieten down the woman's voice, but make the dog and chicken's voices louder."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"I only want to keep the animal voices of the dog and chicken in the mix."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please quieten down the woman's voice, but make the dog and chicken's voices louder."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I only want to keep the animal voices of the dog and chicken in the mix."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1717,7 +1717,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #14</th>
+        <th style="text-align: left;">🔉Input Mixture #14</th>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">acoustic guitar</td>
@@ -1761,13 +1761,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Make the conversation as clean as possible."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Boost the volume of the conversation, and also quieten down those distracting background sounds."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Make the conversation as clean as possible."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Boost the volume of the conversation, and also quieten down those distracting background sounds."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1795,13 +1795,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you pull out the dog barking sound for me? Thanks."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you isolate the speaker with a deep tone and low enthusiasm?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you pull out the dog barking sound for me? Thanks."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you isolate the speaker with a deep tone and low enthusiasm?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1829,13 +1829,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like you to turn down the volume of the low-pitch male speaker and remove the dog barking noise."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please extract the sound of the guitar and the dog's barking."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like you to turn down the volume of the low-pitch male speaker and remove the dog barking noise."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please extract the sound of the guitar and the dog's barking."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -1868,7 +1868,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #15</th>
+        <th style="text-align: left;">🔉Input Mixture #15</th>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">toilet flush</td>
@@ -1912,13 +1912,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Let's remove the annoying siren sound."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Can you edit the audio to extract the speaker characterized by standard pitch?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Let's remove the annoying siren sound."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Can you edit the audio to extract the speaker characterized by standard pitch?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -1946,13 +1946,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Could you extract the high-pitched speaker and the wailing siren?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"I want you to single out the siren sound."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Could you extract the high-pitched speaker and the wailing siren?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I want you to single out the siren sound."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -1980,13 +1980,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like you to decrease the siren volume, lower the sound of the toilet flushing, reduce the volume of the speaker with normal pitch, and boost the volume of the speaker with high pitch."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please raise the sound level of the high-pitched speaker, remove the speaker with typical pitch, and erase the siren sound."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like you to decrease the siren volume, lower the sound of the toilet flushing, reduce the volume of the speaker with normal pitch, and boost the volume of the speaker with high pitch."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please raise the sound level of the high-pitched speaker, remove the speaker with typical pitch, and erase the siren sound."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -2027,7 +2027,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #16</th>
+        <th style="text-align: left;">🔉Input Mixture #16</th>
         <td style="text-align: center;">male speaker with low pitch, low tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">scissors</td>
@@ -2071,13 +2071,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please get rid of the sound of scissors."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Pump up the volume on the talks and reduce other noises."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please get rid of the sound of scissors."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Pump up the volume on the talks and reduce other noises."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
@@ -2105,13 +2105,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Please separate the part featuring someone playing a string instrument."</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"I'd like you to isolate both the female speaker and the bowed string instrument sound from the mixture."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Please separate the part featuring someone playing a string instrument."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"I'd like you to isolate both the female speaker and the bowed string instrument sound from the mixture."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture C</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture C</th>
         <th style="width: 25%; text-align: left;">Target Mixture C</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture D</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture D</th>
         <th style="width: 25%; text-align: left;">Target Mixture D</th>
     </tr>
     <tr>
@@ -2139,14 +2139,14 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
         </td>
     </tr>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Remove all speakers from the audio, can you?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Is it possible to turn up
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Remove all speakers from the audio, can you?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Is it possible to turn up
             the volume of the string instrument and reduce the volume of the scissors?"</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture E</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture E</th>
         <th style="width: 25%; text-align: left;">Target Mixture E</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture F</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture F</th>
         <th style="width: 25%; text-align: left;">Target Mixture F</th>
     </tr>
     <tr>
@@ -2179,7 +2179,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">Input Mixture #17</th>
+        <th style="text-align: left;">🔉Input Mixture #17</th>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">musical keyboard</td>
@@ -2223,13 +2223,13 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 
 <table>
     <tr>
-        <td colspan="2" style="text-align: left; width: 50%;">"Is it possible to extract the song of the seagull?"</td>
-        <td colspan="2" style="text-align: left; width: 50%;">"Add more volume to the surrounding, and decrease the speech volume."</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Is it possible to extract the song of the seagull?"</td>
+        <td colspan="2" style="text-align: left; width: 50%;">✏️"Add more volume to the surrounding, and decrease the speech volume."</td>
     </tr>
     <tr>
-        <th style="width: 25%; text-align: left;">Remixed Mixture A</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture A</th>
         <th style="width: 25%; text-align: left;">Target Mixture A</th>
-        <th style="width: 25%; text-align: left;">Remixed Mixture B</th>
+        <th style="width: 25%; text-align: left;">✨Remixed Mixture B</th>
         <th style="width: 25%; text-align: left;">Target Mixture B</th>
     </tr>
     <tr>
