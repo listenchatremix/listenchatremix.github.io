@@ -2,9 +2,9 @@
 layout: arxiv
 ---
 
-#### Xilin Jiang, Cong Han, Yinghao Aaron Li, Nima Mesgarani
+***Xilin Jiang, Cong Han, Yinghao Aaron Li, Nima Mesgarani***
 
-##### Columbia University, New York, USA
+Columbia University, New York, USA
 
 ![abstract](figures/LCR_demo.png)
 
@@ -54,10 +54,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 </style>
 
 
-## Sound Mixture Compositions
-
-Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Other compositions are all zero-shot.
-
+### Sound Mixture Compositions
+Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. All other compositions all zero-shot.
 
 <a name="2s2a"></a>
 <details class="accordion">
@@ -255,6 +253,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -405,6 +404,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -556,6 +556,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -708,6 +709,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -852,6 +854,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -954,6 +957,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1063,6 +1067,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1165,6 +1170,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1282,6 +1288,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1391,6 +1398,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1510,6 +1518,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1620,6 +1629,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1744,6 +1754,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -1894,6 +1905,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -2052,6 +2064,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
@@ -2203,6 +2216,7 @@ Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Oth
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
     </tbody>
 </table>
 
