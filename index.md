@@ -2,9 +2,9 @@
 layout: arxiv
 ---
 
-***Xilin Jiang, Cong Han, Yinghao Aaron Li, Nima Mesgarani***
+#### Xilin Jiang, Cong Han, Yinghao Aaron Li, Nima Mesgarani
 
-Columbia University, New York, USA
+##### Columbia University, New York, USA
 
 ![abstract](figures/LCR_demo.png)
 
@@ -56,10 +56,14 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 
 ## Sound Mixture Compositions
 
+Only the "2 Speech + 2 Audio (VGGSound)" compositions are used for training. Other compositions are all zero-shot.
+
+
 <a name="2s2a"></a>
 <details class="accordion">
   <summary>2 Speech + 2 Audio (VGGSound)<span class="chev">▶</span></summary>
   <div class="section-body">
+<hr>
 
 <table>
     <tbody>
@@ -101,6 +105,9 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
+        </tr>
+    </tbody>
+</table>
 
 <table>
     <tr>
@@ -205,7 +212,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -248,7 +255,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-
+    </tbody>
+</table>
 
 <table>
     <tr>
@@ -354,7 +362,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -397,7 +405,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -504,7 +513,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -547,7 +556,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -655,7 +665,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -698,7 +708,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -804,7 +815,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
+<hr>
   </div>
 </details>
 
@@ -812,6 +824,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 <details class="accordion">
   <summary>2 Speech<span class="chev">▶</span></summary>
   <div class="section-body">
+<hr>
 
 <table>
     <tbody>
@@ -839,7 +852,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -911,7 +925,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -940,7 +954,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-
+    </tbody>
+</table>
 
 <table>
     <tr>
@@ -1011,7 +1026,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
+<hr>
   </div>
 </details>
 
@@ -1019,6 +1035,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 <details class="accordion">
   <summary>2 Audio (VGGSound)<span class="chev">▶</span></summary>
   <div class="section-body">
+<hr>
 
 <table>
     <tbody>
@@ -1046,7 +1063,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1118,7 +1136,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -1147,7 +1165,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1219,7 +1238,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
+<hr>
   </div>
 </details>
 
@@ -1227,6 +1247,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 <details class="accordion">
   <summary>2 Speech + 1 Audio (VGGSound)<span class="chev">▶</span></summary>
   <div class="section-body">
+<hr>
 
 <table>
     <tbody>
@@ -1261,7 +1282,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1333,7 +1355,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -1369,7 +1391,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1443,7 +1466,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
+<hr>
   </div>
 </details>
 
@@ -1451,6 +1475,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 <details class="accordion">
   <summary>1 Speech + 2 Audio (VGGSound)<span class="chev">▶</span></summary>
   <div class="section-body">
+<hr>
 
 <table>
     <tbody>
@@ -1485,7 +1510,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1558,7 +1584,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -1594,7 +1620,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1666,7 +1693,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
+<hr>
   </div>
 </details>
 
@@ -1674,6 +1702,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 <details class="accordion">
   <summary>2 Speech + 2 Audio (FSD50K, seen audio labels)<span class="chev">▶</span></summary>
   <div class="section-body">
+<hr>
 
 <table>
     <tbody>
@@ -1715,7 +1744,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1821,7 +1851,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -1864,7 +1894,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -1970,7 +2001,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
+<hr>
   </div>
 </details>
 
@@ -1978,6 +2010,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 <details class="accordion">
   <summary>2 Speech + 2 Audio (FSD50K, unseen audio labels)<span class="chev">▶</span></summary>
   <div class="section-body">
+<hr>
 
 <table>
     <tbody>
@@ -2019,7 +2052,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -2126,7 +2160,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
     </tr>
-
+</table>
 <hr>
 
 <table>
@@ -2169,7 +2203,8 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
                 Your browser does not support the audio element.
             </audio>
         </td>
-    
+    </tbody>
+</table>
 
 
 <table>
@@ -2191,7 +2226,22 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
             </audio>
         </td>
         <td style="width: 25%;">
-            <audio controls><source src="wavs/2Speech2FSD_unseen/ex2/tar_0001.wav"
-
+            <audio controls><source src="wavs/2Speech2FSD_unseen/ex2/tar_0001.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        </td>
+        <td style="width: 25%;">
+            <audio controls>
+                <source src="wavs/2Speech2FSD_unseen/ex2/edit_DDUU.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        </td>
+        <td style="width: 25%;">
+            <audio controls><source src="wavs/2Speech2FSD_unseen/ex2/tar_DDUU.wav" type="audio/wav">
+                Your browser does not support the audio element.
+            </audio>
+        </td>
+    </tr>
+</table>
   </div>
 </details>
