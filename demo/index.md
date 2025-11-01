@@ -56,7 +56,7 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
 </style>
 
 
-### Sound Mixture Compositions
+#### Audio samples grouped by source compositions
 Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. All other compositions all zero-shot.
 
 <a name="2s2a"></a>
