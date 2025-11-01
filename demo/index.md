@@ -2,9 +2,11 @@
 layout: arxiv
 ---
 
-by ***Xilin Jiang, Cong Han, Yinghao Aaron Li*** and ***Nima Mesgarani***
-
-from ***Columbia University, New York, USA***
+<div style="background-color: #fffef9; padding: 20px; border-radius: 10px; border: 1px solid #f8f2c2; box-shadow: 0 4px 10px rgba(0,0,0,0.08); margin: 1.5em 0; text-align: center; color: #003366;">
+  by <b>Xilin Jiang, Cong Han, Yinghao Aaron Li</b> and <b>Nima Mesgarani</b>
+  <br>
+  from <b>Columbia University, New York, USA</b>
+</div>
 
 ![abstract](../figures/LCR_demo.png)
 
