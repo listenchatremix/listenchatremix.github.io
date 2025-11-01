@@ -39,6 +39,20 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
   .table-container td { white-space: normal; }   /* <= put this AFTER any th,td white-space rules */
 </style>
 
+<style>
+  /* Accordion */
+  details.accordion { border: 1px solid #E5E7EB; border-radius: .5rem; margin: 1rem 0; background:#FFFFFF; }
+  details.accordion > summary {
+    list-style: none; cursor: pointer; padding: .75rem 1rem; font-weight: 700; color:#111827;
+    display:flex; align-items:center; justify-content:space-between; gap:.75rem;
+  }
+  details.accordion[open] > summary { border-bottom: 1px solid #E5E7EB; }
+  details.accordion .section-body { padding: 1rem; }
+  /* Chevron */
+  .chev { transition: transform .2s ease; }
+  details[open] .chev { transform: rotate(90deg); }
+</style>
+
 
 ## Sound Mixture Compositions
 <div id="toc_container" style="padding-top:0px;">
@@ -53,8 +67,10 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         <li style="padding-left: 10px;"><a href="#2s2a_fsdunseen"> 2 Speech + 2 Audio (FSD50K, unseen audio labels) </a></li>
 </div>
 
-## 2 Speech + 2 Audio (VGGSound) <a name="2s2a"></a>
-<hr>
+<a name="2s2a"></a>
+<details class="accordion">
+  <summary>2 Speech + 2 Audio (VGGSound)<span class="chev">▶</span></summary>
+  <div class="section-body">
 
 <table>
     <tbody>
@@ -800,10 +816,13 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         </td>
     </tr>
 
-<hr>
+  </div>
+</details>
 
-## 2 Speech <a name="2s"></a>
-<hr>
+<a name="2s"></a>
+<details class="accordion">
+  <summary>2 Speech<span class="chev">▶</span></summary>
+  <div class="section-body">
 
 <table>
     <tbody>
@@ -1004,10 +1023,13 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         </td>
     </tr>
 
-<hr>
+  </div>
+</details>
 
-## 2 Audio (VGGSound) <a name="2a"></a>
-<hr>
+<a name="2a"></a>
+<details class="accordion">
+  <summary>2 Audio (VGGSound)<span class="chev">▶</span></summary>
+  <div class="section-body">
 
 <table>
     <tbody>
@@ -1209,10 +1231,13 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         </td>
     </tr>
 
-<hr>
+  </div>
+</details>
 
-## 2 Speech + 1 Audio (VGGSound) <a name="2s1a"></a>
-<hr>
+<a name="2s1a"></a>
+<details class="accordion">
+  <summary>2 Speech + 1 Audio (VGGSound)<span class="chev">▶</span></summary>
+  <div class="section-body">
 
 <table>
     <tbody>
@@ -1430,10 +1455,13 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         </td>
     </tr>
 
-<hr>
+  </div>
+</details>
 
-## 1 Speech + 2 Audio (VGGSound) <a name="1s2a"></a>
-<hr>
+<a name="1s2a"></a>
+<details class="accordion">
+  <summary>1 Speech + 2 Audio (VGGSound)<span class="chev">▶</span></summary>
+  <div class="section-body">
 
 <table>
     <tbody>
@@ -1650,10 +1678,13 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         </td>
     </tr>
 
-<hr>
+  </div>
+</details>
 
-## 2 Speech + 2 Audio (FSD50K, seen audio labels) <a name="2s2a_fsdseen"></a>
-<hr>
+<a name="2s2a_fsdseen"></a>
+<details class="accordion">
+  <summary>2 Speech + 2 Audio (FSD50K, seen audio labels)<span class="chev">▶</span></summary>
+  <div class="section-body">
 
 <table>
     <tbody>
@@ -1951,10 +1982,13 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         </td>
     </tr>
 
-<hr>
+  </div>
+</details>
 
-## 2 Speech + 2 Audio (FSD50K, unseen audio labels) <a name="2s2a_fsdunseen"></a>
-<hr>
+<a name="2s2a_fsdunseen"></a>
+<details class="accordion">
+  <summary>2 Speech + 2 Audio (FSD50K, unseen audio labels)<span class="chev">▶</span></summary>
+  <div class="section-body">
 
 <table>
     <tbody>
@@ -2169,3 +2203,6 @@ This page contains a set of audio samples. We write 4~6 text prompts for each sa
         </td>
         <td style="width: 25%;">
             <audio controls><source src="wavs/2Speech2FSD_unseen/ex2/tar_0001.wav"
+
+  </div>
+</details>
