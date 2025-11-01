@@ -66,7 +66,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #1</th>
+        <th style="text-align: left;">🔉Input Mixture #1 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, high tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">helicopter</td>
@@ -216,7 +216,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #2</th>
+        <th style="text-align: left;">🔉Input Mixture #2 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with low pitch, low tempo, low energy, and sad emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">playing accordion</td>
@@ -367,7 +367,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #3</th>
+        <th style="text-align: left;">🔉Input Mixture #3 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, high tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">underwater bubbling</td>
@@ -519,7 +519,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #4</th>
+        <th style="text-align: left;">🔉Input Mixture #4 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">playing hammond organ</td>
@@ -672,7 +672,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #5</th>
+        <th style="text-align: left;">🔉Input Mixture #5 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, low tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">church bell ringing</td>
@@ -831,7 +831,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #6</th>
+        <th style="text-align: left;">🔉Input Mixture #6 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">female speaker with normal pitch, normal <br> tempo, low energy, and contempt emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, normal <br> tempo, normal energy, and neutral emotion</td>
         </tr>
@@ -934,7 +934,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #7</th>
+        <th style="text-align: left;">🔉Input Mixture #7 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">female speaker with normal pitch, high <br> tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">male speaker with low pitch, low <br> tempo, high energy, and neutral emotion</td>
         </tr>
@@ -1044,7 +1044,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #8</th>
+        <th style="text-align: left;">🔉Input Mixture #8 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">playing tabla</td>
         <td style="text-align: center;">missile launch</td>
         </tr>
@@ -1147,7 +1147,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #9</th>
+        <th style="text-align: left;">🔉Input Mixture #9 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">fireworks banging</td>
         <td style="text-align: center;">vacuum cleaner cleaning floors</td>
         </tr>
@@ -1258,7 +1258,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #10</th>
+        <th style="text-align: left;">🔉Input Mixture #10 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with normal pitch, low tempo, normal energy, and surprised emotion</td>
         <td style="text-align: center;">female speaker with high pitch, high tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">playing banjo</td>
@@ -1368,7 +1368,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #11</th>
+        <th style="text-align: left;">🔉Input Mixture #11 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with low pitch, high tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">wind chime</td>
@@ -1488,7 +1488,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #12</th>
+        <th style="text-align: left;">🔉Input Mixture #12 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with low pitch, high tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">cuckoo bird calling</td>
         <td style="text-align: center;">playing oboe</td>
@@ -1599,7 +1599,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #13</th>
+        <th style="text-align: left;">🔉Input Mixture #13 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">female speaker with high pitch, high tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">dog growling</td>
         <td style="text-align: center;">chicken crowing</td>
@@ -1717,7 +1717,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #14</th>
+        <th style="text-align: left;">🔉Input Mixture #14 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, low energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">acoustic guitar</td>
@@ -1868,7 +1868,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #15</th>
+        <th style="text-align: left;">🔉Input Mixture #15 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">toilet flush</td>
@@ -2027,7 +2027,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #16</th>
+        <th style="text-align: left;">🔉Input Mixture #16 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with low pitch, low tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with high pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">scissors</td>
@@ -2179,7 +2179,7 @@ Only the “2 Speech + 2 Audio (VGGSound)” composition is used for training. A
 <table>
     <tbody>
         <tr>
-        <th style="text-align: left;">🔉Input Mixture #17</th>
+        <th style="text-align: left;">🔉Input Mixture #17 <span style="font-weight: normal;">consists of</span> </th>
         <td style="text-align: center;">male speaker with low pitch, normal tempo, normal energy, and neutral emotion</td>
         <td style="text-align: center;">female speaker with normal pitch, normal tempo, high energy, and neutral emotion</td>
         <td style="text-align: center;">musical keyboard</td>
